@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Thumbnail](https://github.com/user-attachments/assets/3cd976ec-8400-4ec9-b418-3f36620ae565)
+![Thumbnail](https://github.com/user-attachments/assets/037ed2c3-e05e-4b69-a176-8cef7afceca8)
 
 <!--![메인페이지]() -->
 
