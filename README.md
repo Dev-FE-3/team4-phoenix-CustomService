@@ -100,7 +100,7 @@
   - [배포](#배포)
   - [문서](#문서)
 
-# <img src="https://github.com/user-attachments/assets/970984fd-bd12-4314-9597-9f9c68c0ed76" width="30" height="30" align='center'/> OnlyMe
+# <img src="https://github.com/user-attachments/assets/970984fd-bd12-4314-9597-9f9c68c0ed76" width="100" height="25" align='center'/> OnlyMe
 
 ## ❓ 프로젝트 소개
 
