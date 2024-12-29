@@ -2,8 +2,9 @@
 
 <div align=center>
 
-<!--![Thumbnail]()
-![메인페이지]() -->
+![Thumbnail](https://github.com/user-attachments/assets/3cd976ec-8400-4ec9-b418-3f36620ae565)
+
+<!--![메인페이지]() -->
 
 ## 👋 팀원 👋
 
