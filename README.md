@@ -84,14 +84,14 @@
  ┗ 📜README.md
 ```
 
-# <img src="https://github.com/user-attachments/assets/970984fd-bd12-4314-9597-9f9c68c0ed76" width="100" height="25" align='center'/> OnlyMe
+# <img src="https://github.com/user-attachments/assets/970984fd-bd12-4314-9597-9f9c68c0ed76" width="120" height="40" align='center'/>
 
-## ❓ 프로젝트 소개
+## 💡 프로젝트 소개
 
-간편한 주문 제작 예약 서비스는 고객이 쉽고 빠르게 예약과 주문을 진행하고, 판매자가 효율적으로 매장을 운영할 수 있도록 돕는 올인원 플랫폼입니다. <br>
-Google Forms 스타일의 주문서 작성, 캘린더 기반 예약 관리, 실시간 재고 알림 등을 통해 편리함을 제공합니다.
+간편한 주문 제작 예약 서비스 OnlyMe는 고객이 쉽고 빠르게 예약과 주문을 진행하고, 판매자가 효율적으로 매장을 운영할 수 있도록 돕는 올인원 플랫폼입니다. <br>
+커스텀 주문서 생성 및 작성, 예약금 인증, 캘린더 기반 예약 관리, 실시간 재고 알림 등을 통해 편리함을 제공합니다.
 <br>
-고객에게는 간편 결제와 맞춤형 알림을, 판매자에게는 자동화된 예약·재고 관리를 제공하여 만족도와 운영 효율성을 동시에 극대화합니다.
+고객에게는 탐색 및 간편 결제와 맞춤형 알림을, 판매자에게는 자동화된 예약·재고 관리를 제공하여 만족도와 운영 효율성을 동시에 극대화합니다.
 
 ## 목적
 
@@ -144,7 +144,7 @@ Google Forms 스타일의 주문서 작성, 캘린더 기반 예약 관리, 실�
 
 | 소셜 로그인 후 초기 화면                                                                                             | 사업자 등록                                                                                                           | 사업자 등록 후                                                                                                       | 주문서 등록 후                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/ae84c940-40ac-4223-8516-865b234ea8bc" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/24cd9c0a-2005-4922-ac70-e7c4f9032217" width="150" height="300s"> | <img src="https://github.com/user-attachments/assets/dc1a9bc5-5f68-4dbf-aebc-69f17accca6b" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/95fde3d4-b3c5-4664-b72d-313284db0a84" width="150" height="300"> |
+| <img src="https://github.com/user-attachments/assets/eb612bb0-97e9-4801-a75e-b01362235501" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/24cd9c0a-2005-4922-ac70-e7c4f9032217" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/a9d1f47f-9fb1-4785-ab9c-324f4c9dbb42" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/95fde3d4-b3c5-4664-b72d-313284db0a84" width="245" height="531"> |
 
 `사업자`는 소셜 로그인 및 회원가입한 후 사업자등록을 할 수 있습니다.
 사업자 등록한 후 사업자가 원하는 양식대로 주문서를 커스터마이징 하여 작성할 수 있습니다.
@@ -153,23 +153,23 @@ Google Forms 스타일의 주문서 작성, 캘린더 기반 예약 관리, 실�
 
 | 예약 메인 홈 전체 리스트                                                                                             | 예약 메인 홈 드롭다운                                                                                                | 예약된 내용 달력 표시                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/bf4b4f9a-ff81-48f8-a09f-9573da88bb60" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/1d24f814-afb8-4621-92ce-80af5e760d75" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/9297aa51-f67a-4545-ac52-b51b053c79a6" width="150" height="300"> |
+| <img src="https://github.com/user-attachments/assets/bf4b4f9a-ff81-48f8-a09f-9573da88bb60" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/1d24f814-afb8-4621-92ce-80af5e760d75" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/9297aa51-f67a-4545-ac52-b51b053c79a6" width="245" height="531"> |
 
 `사업자`는 구매자가 예약한 주문 내용을 실시간으로 확인할 수 있습니다. 그리고 각 구매자들이 구매한 품목에 따라 필터링하여 내역을 확인할 수 있습니다. 조회하고자 하는 날짜에 따라 주문자를 확인할 수 있습니다.
 
 ### [구매자 화면]
 
-| 주문 탐색                                                                                                            | 업장 상세                                                                                                            |
+| 업장 탐색                                                                                                            | 업장 상세                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/a625f773-de06-4fcb-a4c8-e2e2b4bf51c2" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/1363d014-919d-44cf-aa44-4cb25854e9e2" width="150" height="300"> |
+| <img src="https://github.com/user-attachments/assets/7c15c639-b04f-4307-93c1-7020099fe39f" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/1363d014-919d-44cf-aa44-4cb25854e9e2" width="245" height="531"> |
 
 `구매자`는 `사업자`가 설정한 판매 상품을 주문할 수 있습니다. 또한 `사업자`가 판매하는 또 다른 유형의 상품을 구매할수도 있습니다.
 
 ### [My 페이지]
 
-| 업장 등록 필요                                                                                                       | 업장 등록                                                                                                            | 등록 완료                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/0a8ae454-3047-4c3e-b65b-1e88a2784440" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/c4209811-d0c5-4c5c-8f4e-255961b5ca17" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/e08183d7-c25e-415a-9505-97d0a5e19c6f" width="150" height="300" > |
+| 정보 수정                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/e08183d7-c25e-415a-9505-97d0a5e19c6f" width="245" height="531" > |
 
 `사업자`는 My 페이지에서 사업자 정보와 가게 정보를 입력할 수 있습니다. 이를 통해 고객에게 노출되는 가게 정보와 사업자 정보를 관리하고 수정할 수 있습니다.
 
@@ -177,7 +177,7 @@ Google Forms 스타일의 주문서 작성, 캘린더 기반 예약 관리, 실�
 
 | 주문서 작성1                                                                                                         | 주문서 작성 2                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/7b87242d-16ee-4fe5-9473-4be501686383" width="150" height="300"> | <img src="https://github.com/user-attachments/assets/dc253a84-68c3-4d13-ac88-3807f6b91eec" width="150" height="300"> |
+| <img src="https://github.com/user-attachments/assets/15107f2d-2c97-40e8-aa3f-460cc20ca2a8" width="245" height="531"> | <img src="https://github.com/user-attachments/assets/3d1b0119-f8a8-4da0-8aaa-11d929c8b3ed" width="245" height="531"> |
 
 `사업자`는 자신이 원하는 스타일대로 주문서를 커스터마이징하여 제작할 수 있습니다. 이로써 `구매자`가 원하는 요구사항대로 주문할 수 있습니다.
 
